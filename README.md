@@ -1,2 +1,6 @@
 # hello-world
-just to practice getting started with github
+Hello, 
+This is now an edited 
+Version of the file. 
+
+Yay! Branching.
